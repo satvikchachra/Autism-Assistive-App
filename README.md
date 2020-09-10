@@ -40,11 +40,12 @@ Autism or autism spectrum disorder (ASD) is developmental disorder that impairs 
 * Add audio content.
 	
 ### Team Members
-Pranav Gurditta
-Rucha Yagnik
-Satvik Chachra
-Vedant Bahal
-
+<img src="assets/profiles/satvikchachra.jpg" height="150px" width="150px"> <img src="assets/profiles/pranavgurditta.png" height="150px" width="150px"> <img src="assets/profiles/vedantbahel.jpg" height="150px" width="150px"> <img src="assets/profiles/RuchaYagnik.jpg" height="150px" width="150px">
+<br> &nbsp;&nbsp;&nbsp;
+[Satvik Chachra](https://www.github.com/satvikchachra)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Pranav Gurditta](https://www.github.com/anshwalia)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Vedant Bahel](https://www.github.com/vedantbahel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Rucha Yagnik](https://www.github.com/RuchaYagnik)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # References
 https://www.autismspeaks.org/what-autism
