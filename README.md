@@ -12,7 +12,10 @@ Autism or autism spectrum disorder (ASD) is developmental disorder that impairs 
 
 
 # Technologies Used
-  Microsoft Azure Power Apps Platform
+* Microsoft Azure Power Apps Platform
+  
+### Future Tech stack:
+* Deploying a website as well for the product, using Web App Service on Microsoft Azure.
 
 # Description
   What does the application do ?
@@ -29,6 +32,13 @@ Autism or autism spectrum disorder (ASD) is developmental disorder that impairs 
 ### Story
 
 
+# Future Scope
+* Add a feature for Parents where they can create personalized teaching stories for certain social scenarios by clicking pictures. Like going to a restaurant, working on a       project in a group, etc.
+* Add user authentication.
+* Add an Avatar feature.
+* Add parental control functionalities to set playing time limit.
+* Add audio content.
+	
 ### Team Members
 Pranav Gurditta
 Rucha Yagnik
