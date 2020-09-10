@@ -1,28 +1,15 @@
 # Autism Assistive System
 
 # Background
-Autism or autism spectrum disorder (ASD) is a developmental disorder that impairs the ability to communicate and interact. It impacts
-  * Social skills
-  * Repetitive Behaviors
-  * Speech and nonverbal communication
- 
-# Need for an application to treat this disorder: 
-  According to the Centre for Disease Control, autism affects and estimated 1 in 54 children in the United States today.
-  According to WHO, one in 160 children has Autism Spectrum Disorder.
-  Signs of autism usually appear by age 2 or 3 and early detection can lead to positive outcomes later in life for people with autism.
-
+According to the World Health Organization, 1 in 160 children has an autism spectrum disorder.
+These children struggle with social interactions on a daily basis. ASD significantly limits their capacity to conduct daily activities and participate in social scenarios. It also imposes significant emotional burden on children with these disorders.
 
 # Technologies Used
 * Microsoft Azure Power Apps Platform
-  
-### Future Tech stack:
-* Deploying a website as well for the product, using Web App Service on Microsoft Azure.
+* <b>Future Tech stack:</b> Deploying a website as well for the product, using Web App Service on Microsoft Azure.
 
 # Problem statement
-  Kids sufferring from Autism are:
-  *	Unable to understand the emotions of other people around them while seeing them.
-  *	Unable to decipher the emotion from a voice/sound.
-  
+  Develop a technology-based solution for children suffering from ASD to help them in interacting better in social scenarios, hence making social environments more accessible,     and inclusive for them.
   
 # Description of the solution
   What does the application do ?
@@ -31,17 +18,16 @@ Autism or autism spectrum disorder (ASD) is a developmental disorder that impair
   
   Kids suffering from Autism find it difficult to understand what is the emotion associated with a particular voice, hence we try to teach as well as quiz the kid    	whether the sound being played is associated with happiness, sadness, anger or fear.
   
-  
-
 ### Story
 
 
 # Future Scope
-* Habit inculcation by parents - Adding a feature for Parents where they can create personalized teaching stories for certain social scenarios by clicking pictures.   Like going to a restaurant, working on a project in a group, etc.
+* Add a feature for Parents where they can create personalized teaching stories for certain social scenarios by clicking pictures. Examples - how to interact at a restaurant or when working on a project in a group and many more.
+* Build a feature where parents can add audio content for their children to learn to interpret emotions associated with the audio.
 * Add user authentication.
 * Add an Avatar feature.
 * Add parental control functionalities to set playing time limit.
-* Accept audio responses from the user.
+* Add audio content.
 	
 ### Team Members
 <img src="assets/profiles/satvikchachra.jpg" height="150px" width="150px"> <img src="assets/profiles/pranavgurditta.png" height="150px" width="150px"> <img src="assets/profiles/vedantbahel.jpg" height="150px" width="150px"> <img src="assets/profiles/RuchaYagnik.jpg" height="150px" width="150px">
