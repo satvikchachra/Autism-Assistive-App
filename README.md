@@ -2,9 +2,9 @@
 
 # Background
 Autism or autism spectrum disorder (ASD) is a developmental disorder that impairs the ability to communicate and interact. It impacts
-  Social skills
-  Repetitive Behaviors
-  Speech and nonverbal communication
+  * Social skills
+  * Repetitive Behaviors
+  * Speech and nonverbal communication
  
 # Need for an application to treat this disorder: 
   According to the Centre for Disease Control, autism affects and estimated 1 in 54 children in the United States today.
@@ -18,8 +18,14 @@ Autism or autism spectrum disorder (ASD) is a developmental disorder that impair
 ### Future Tech stack:
 * Deploying a website as well for the product, using Web App Service on Microsoft Azure.
 
-
-# Description
+# Problem statement
+  Kids sufferring from Autism are:
+  *	Unable to understand the emotions of other people around them
+  *	Unable to form habits quickly.
+  *	Unable to decipher the emotion from a voice/sound.
+  
+  
+# Description of the solution
   What does the application do ?
   Kids suffering from Autism are not able to decipher the emotions of other people around them, so our application tries to teach them in a fun loving way
   using a game based format about emotions the people are feeling in different scenarios like playground, classroom and restaurant.
