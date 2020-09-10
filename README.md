@@ -8,6 +8,7 @@ Autism or autism spectrum disorder (ASD) is a developmental disorder that impair
  
 # Need for an application to treat this disorder: 
   According to the Centre for Disease Control, autism affects and estimated 1 in 54 children in the United States today.
+  According to WHO, one in 160 children has Autism Spectrum Disorder.
   Signs of autism usually appear by age 2 or 3 and early detection can lead to positive outcomes later in life for people with autism.
 
 
