@@ -64,5 +64,8 @@ To increase the difficulty level even further, we plan to incorporate the follow
 [Rucha Yagnik](https://www.github.com/RuchaYagnik)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## References
-* https://www.autismspeaks.org/what-are-symptoms-autism
-* https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders
+* [What are symptoms of Autism?](https://www.autismspeaks.org/what-are-symptoms-autism)
+* [Statistics](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders)
+* [Image Courtesy](https://images.indianexpress.com/2015/06/autism-759.jpg)
+* [Image Courtesy](http://wp.me/p4i2z7-16M)
+* [Image Courtesy](https://www.flaticon.com/free-icon/volume_945174?term=audio&&page=1&&position=13)
