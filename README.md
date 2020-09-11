@@ -46,10 +46,9 @@ To increase the difficulty level even further, we plan to incorporate the follow
 </details>
 
 ## Future Scope
-* Add an Avatar feature.
+* Add an Avatar feature to help the user to navigate through the application.
 * Add user authentication of parents/doctors for tracking children's progress.
-* Feature: Children interpret emotions associated with personalized content uploaded by parents.
-* Feature: Parents where they can create personalized teaching stories.
+* Feature: Children interpret emotions associated with personalized content/teaching stories uploaded by parents.
 * Add parental control functionalities to set playing time limit.
 
 ## Technologies Used
