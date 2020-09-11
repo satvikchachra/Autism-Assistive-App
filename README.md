@@ -9,13 +9,13 @@ These children struggle with social interactions on a daily basis. ASD significa
   
 ## Description of the solution
 Our app aims at improving emotional intelligence of the users (suffering from autism) by Gamifying the process.
-The game is divided into 3 levels where each level challenges the user to decipher the emotion reflected on the screen through:
+The game is divided into 3 levels where each level helps the user to interpret the emotion reflected on the screen through:
 * Images (Level 1)
 * Audio (Level 2)
 * Video (Level 3)
 
-As the game progresses, the difficulty level increases. 
-To increase the difficulty level even further, we plan to incorporate the following into the game:
+
+As the level increases further, we plan to incorporate the following into the game:
 * Various Social Scenarios (Ex- School, Playground, Cafe)
 * Characters belonging to diverse set of Age Groups
 
